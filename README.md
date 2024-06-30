@@ -1,4 +1,4 @@
-🌟 Mihir Mahalle - Data Analyst 🌟
+🌟 # **Mihir Mahalle - Data Analyst** 🌟
 LinkedIn Email
 
 📋 Professional Summary
