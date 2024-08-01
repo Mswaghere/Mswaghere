@@ -3,7 +3,7 @@
 
 
 <h3>📋 Professional Summary</h3>
-Passionate data analyst with a proven track record of leveraging SQL, Power BI, and Excel to derive actionable insights and drive informed decision-making. Skilled in data manipulation, data modeling, and visualization, with the ability to communicate findings effectively to stakeholders. Eager to apply analytical expertise and uncover growth opportunities in a dynamic, fast-paced environment.<br>
+A flexible IT professional, skilled in obtaining business insights using SQL, Power BI, Python, & Excel. Proficient in designing and developing data pipelines using Azure cloud services, ADF, & Synapse Analytics. Strong in Data Analytics, Data Visualization &  Database. Proficient in ETL (extract, transform, and load). Fascinating by using data to make business insights & decisions.<br>
 
 <h3><strong>🛠️ Skills </strong> </h3><br> 
 <ul>
@@ -13,6 +13,8 @@ Passionate data analyst with a proven track record of leveraging SQL, Power BI, 
 📈 Power BI<br>
 📉 Tableau<br>
 🐍 Python <br>
+🐍 Azure Cloud Platform <br>
+🗄️ Databricks<br>
  <li><strong>Data Skills:</strong><br></li>
 📊 Data Visualization<br>
 🧮 Data Analysis<br>
@@ -54,19 +56,23 @@ SGPA - 7.81<br>
  <li>Data Analytics and Visualization Virtual Experience - Accenture(Forage)<br></li>
  <li>Python(Pandas) - DataFlair<br></li>
  <li>Google Ads - Campaign Creations - Learnmall<br></li>
+ <li>Practical Database Design - LinkedIn Learning<br></li>
 </ul>
 
 <h3><strong>📊 Projects </strong> </h3>
 <ol>
- <li> Strategic Banking Insights - Banking Sector <br>
-Tools: Power BI, Excel<br>
-Description: Created a dynamic dashboard for Mitron Bank, a fictional bank that helped them understand market trends, customer preferences, and potential areas for credit card innovation.<br></li>
- <li> Road Accident Dashboard<br>
-Tools: Excel<br>
-Description: Analyzed 300,000 rows of road accident data and developed an interactive visualization for detailed insights.<br></li>
- <li> Codex Dynamic Marketing Strategy for India <br>
-Tools: Power BI, MySQL, Excel<br>
-Description: Implemented MySQL and Power BI to analyze data from 10,000+ Survey participants.<br></li>
+ <li> Azure Data Pipeline (Pizza Dataset) <br>
+Tools: Azure Cloud - Databricks - PySpark - Synapse Analytics - Power BI<br>
+Description: Successfully orchestrated a seamless data flow from SQL Server to Azure Blob Storage using Azure Data Factory. The data was then processed in Azure Blob Storage with Databricks, utilizing PySpark and Spark SQL for efficient data transformation and analysis. Finally, the processed data was visualized in Power BI, providing actionable business insights and facilitating data-driven decision-making.<br></li>
+
+ <li> Azure Data Pipeline (Tokyo Olympics Dataset) <br>
+Tools: Azure Data Factory - Databricks - Synapse Analytics <br>
+Description: Developed a comprehensive Azure data pipeline that facilitated efficient data management and analysis. This project involved ingesting raw data from a GitHub repository into Azure Data Lake Storage Gen2 using Azure Data Factory. Then transformed the raw data into a structured format within Databricks, leveraging its capabilities for data processing. Finally, performed in-depth data analysis and reporting in Azure Synapse Analytics, enabling insightful visualizations and informed decision-making.<br></li>
+
+ <li> Microsoft Fabric <br>
+Tools: Data Factory - Synapse Data Engineering <br>
+Description: Implemented a comprehensive data pipeline that ingested data from the Bing API into Azure Data Factory, storing it in OneLake in JSON format. Then transform the JSON data into a structured format using Synapse Data Engineering. Finally, conducted sentiment analysis on the structured data with Synapse Data Science, deriving valuable insights that can drive strategic business decisions.<br></li>
+
  <li> Medical Mart MySQL Database<br>
 Tools: MySQL<br>
 Description: Developed and managed a comprehensive MySQL database for a medical mart, ensuring data integrity and accessibility.<br></li>
