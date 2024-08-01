@@ -1,4 +1,4 @@
-<h1>🌟  <strong>Mihir Mahalle - Data Analyst </strong>🌟</h1><br>
+<h1>🌟  <strong>Mihir Mahalle - Data Engineer </strong>🌟</h1><br>
 <a href="https://www.linkedin.com/in/mihirmahalle">Linkedin</a> <a href="mihirmahalleui@protonmail.com">Email</a>
 
 
