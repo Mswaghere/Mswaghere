@@ -37,6 +37,15 @@ A flexible IT professional, skilled in obtaining business insights using SQL, Po
 〽️ French<br>
 
 <h3><strong>💼 Experience </strong></h3>
+<h5>Data Analyst<br></h5>
+TOP Analytica, <br>
+Sept 2024 - Nov 2024<br>
+
+Conducted data extraction, cleaning, and processing from various sources, improving data quality by 25%. Wrote and optimized complex SQL queries to retrieve large datasets for analysis.
+Developed and maintained dashboards using Power BI and Google Sheets, enhancing KPI tracking. Collaborated with cross-functional teams to establish data needs and provide actionable insights.
+Developed strong relationships with stakeholders across various organizational levels, enhancing communication and collaboration.<br>
+
+
 <h5>Data Analyst and Data Visualization Virtual Experience<br></h5>
 Accenture, Remote<br>
 Augest 2023 - Augest 2023<br>
@@ -72,6 +81,10 @@ Description: Developed a comprehensive Azure data pipeline that facilitated effi
  <li> Microsoft Fabric <br>
 Tools: Data Factory - Synapse Data Engineering <br>
 Description: Implemented a comprehensive data pipeline that ingested data from the Bing API into Azure Data Factory, storing it in OneLake in JSON format. Then transform the JSON data into a structured format using Synapse Data Engineering. Finally, conducted sentiment analysis on the structured data with Synapse Data Science, deriving valuable insights that can drive strategic business decisions.<br></li>
+
+<li> Strategic Banking Insights - Banking Sector <br>
+Tools: Azure Data Factory - Databricks - Synapse Analytics <br>
+Description:  Examined credit card spending patterns for 4,000 Mitron Bank customers using Power BI. Cleaned and processed raw credit card data using Power Query, improving accuracy by 25% by carefully handling missing values and data normalization. Engineered interactive Power BI dashboards, visualizing spending habits and demographics, contributing to a 15% rise in customer engagement strategies.<br></li>
 
  <li> Medical Mart MySQL Database<br>
 Tools: MySQL<br>
