@@ -70,6 +70,10 @@ SGPA - 7.81<br>
 
 <h3><strong>📊 Projects </strong> </h3>
 <ol>
+ <li> Car Sales Analysis <br>
+Tools: Excel - Power BI<br>
+Description: Developed an interactive Power BI dashboard for car sales analytics, transforming raw Excel data into actionable insights. Utilized DAX to create measures like YoY growth percentage, revealing a 15% sales increase in 2021. Designed dynamic filters, action buttons, and visualizations to enable stakeholders to analyze trends.<br></li>
+
  <li> Azure Data Pipeline (Pizza Dataset) <br>
 Tools: Azure Cloud - Databricks - PySpark - Synapse Analytics - Power BI<br>
 Description: Successfully orchestrated a seamless data flow from SQL Server to Azure Blob Storage using Azure Data Factory. The data was then processed in Azure Blob Storage with Databricks, utilizing PySpark and Spark SQL for efficient data transformation and analysis. Finally, the processed data was visualized in Power BI, providing actionable business insights and facilitating data-driven decision-making.<br></li>
@@ -83,7 +87,7 @@ Tools: Data Factory - Synapse Data Engineering <br>
 Description: Implemented a comprehensive data pipeline that ingested data from the Bing API into Azure Data Factory, storing it in OneLake in JSON format. Then transform the JSON data into a structured format using Synapse Data Engineering. Finally, conducted sentiment analysis on the structured data with Synapse Data Science, deriving valuable insights that can drive strategic business decisions.<br></li>
 
 <li> Strategic Banking Insights - Banking Sector <br>
-Tools: Azure Data Factory - Databricks - Synapse Analytics <br>
+Tools: MySQL - Excel - Power BI <br>
 Description:  Examined credit card spending patterns for 4,000 Mitron Bank customers using Power BI. Cleaned and processed raw credit card data using Power Query, improving accuracy by 25% by carefully handling missing values and data normalization. Engineered interactive Power BI dashboards, visualizing spending habits and demographics, contributing to a 15% rise in customer engagement strategies.<br></li>
 
  <li> Medical Mart MySQL Database<br>
